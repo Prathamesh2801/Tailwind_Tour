@@ -1,0 +1,1 @@
+# Basic Responsive website using Vite + tailwindCSS + daisyUI
